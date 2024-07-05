@@ -1,12 +1,17 @@
 # HR-Dashboard
 
+<br>
 
 ## User Story - HR Dashboard
 As an HR manager, I want a comprehensive dashboard to analyze human resources data, providing both summary views for high-level insights and detailed employee records for in-depth analysis
 
+<br>
+
 ### Summary View
 
 The summary view should be divided into three main sections: Overview, Demographics, and Income Analysis
+
+<br>
 
 ## Overview
 The Overview section should provide a snapshot of the overall HR metrics, including:
