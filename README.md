@@ -408,13 +408,22 @@ Generate python script to generate a realistic dataset of 8950 records for human
 14. Termination Date: Assigned to a subset of employees (11.2% of the total) with specific probabilities for each year from 2015 to 2024, ensuring the termination date is at least 6 months after the hire date.
 15. Adjusted Salary: Calculated based on gender, education level, and age, applying specific multipliers and increments.
     
+<br>
+
 Be sure to structure the code cleanly, using functions where appropriate, and include comments to explain each step of the process.
+
+<br>
 
 * Project Data – The data used in this HR Dashboard project is generated using a combination of ChatGPT prompts and the Python Faker library. This dataset simulates a set of employee information typically found in HR systems, including demographics, job details, salary, performance evaluations, and attrition data. The generated data is designed to mimic real-world HR data, providing a rich dataset for analysis and visualization in Tableau.
   
  * Icons & Images – The icons used in the HR Dashboard are sourced from Flaticon and customized using Photopea to match the dashboard’s color scheme. The PDS (Photopea files) can be found in the icon folder of the zip file for further editing if needed.
 
+<br>
+
+This is how to plan and execute: 
 
 ![alt text](overview.png)
 
 ![alt text](overview2.png)
+
+![alt text](overview3.png)
